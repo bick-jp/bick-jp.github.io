@@ -1,1 +1,0 @@
-# bick-jp.github.io
