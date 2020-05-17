@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bick-jp.github.io/publication_types/0/</loc>
+    <lastmod>2020-05-17T13:17:57-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bick-jp.github.io/</loc>
-    <lastmod>2019-12-22T16:31:18-05:00</lastmod>
+    <lastmod>2020-05-17T13:17:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/publication_types/</loc>
+    <lastmod>2020-05-17T13:17:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/publication/</loc>
+    <lastmod>2020-05-17T13:17:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/publication/solar-powered-server-designing-for-a-more-energy-positive-internet/</loc>
+    <lastmod>2020-05-17T13:17:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/publication/implementing-grovers-algorithm-on-the-ibm-quantum-computers/</loc>
+    <lastmod>2020-05-17T13:05:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/publication/judotherapist-patient-handbook/</loc>
+    <lastmod>2020-05-16T13:20:35-04:00</lastmod>
   </url>
   
   <url>
@@ -101,14 +131,6 @@
   
   <url>
     <loc>https://bick-jp.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bick-jp.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bick-jp.github.io/publication/</loc>
   </url>
   
   <url>
