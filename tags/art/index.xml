@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art | BICK.XYZ</title>
+    <link>https://bick-jp.github.io/tags/art/</link>
+      <atom:link href="https://bick-jp.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <description>Art</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Keita Ohshiro</copyright><lastBuildDate>Sun, 22 Dec 2019 16:18:30 -0500</lastBuildDate>
+    <image>
+      <url>https://bick-jp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Art</title>
+      <link>https://bick-jp.github.io/tags/art/</link>
+    </image>
+    
+    <item>
+      <title>One Cigarette Butt Per</title>
+      <link>https://bick-jp.github.io/project/one-cigarette-butt-per/</link>
+      <pubDate>Sun, 22 Dec 2019 16:18:30 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/one-cigarette-butt-per/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>256 Pixels Mirror</title>
+      <link>https://bick-jp.github.io/project/256-pixels-mirror/</link>
+      <pubDate>Sun, 22 Dec 2019 16:05:37 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/256-pixels-mirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 United States House Elections</title>
+      <link>https://bick-jp.github.io/project/2018-united-states-house-elections/</link>
+      <pubDate>Sun, 22 Dec 2019 15:49:28 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/2018-united-states-house-elections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Drops</title>
+      <link>https://bick-jp.github.io/project/water-drops/</link>
+      <pubDate>Sun, 22 Dec 2019 15:30:09 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/water-drops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knock Knock</title>
+      <link>https://bick-jp.github.io/project/knock-knock/</link>
+      <pubDate>Sun, 22 Dec 2019 15:07:09 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/knock-knock/</guid>
+      <description>&lt;p&gt;testtesttest.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App | BICK.XYZ</title>
+    <link>https://bick-jp.github.io/tags/app/</link>
+      <atom:link href="https://bick-jp.github.io/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <description>App</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Keita Ohshiro</copyright><lastBuildDate>Sun, 22 Dec 2019 16:27:36 -0500</lastBuildDate>
+    <image>
+      <url>https://bick-jp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>App</title>
+      <link>https://bick-jp.github.io/tags/app/</link>
+    </image>
+    
+    <item>
+      <title>Motion Video</title>
+      <link>https://bick-jp.github.io/project/motion-video/</link>
+      <pubDate>Sun, 22 Dec 2019 16:27:36 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/motion-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speed Pitch</title>
+      <link>https://bick-jp.github.io/project/speed-pitch/</link>
+      <pubDate>Sun, 22 Dec 2019 16:22:19 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/speed-pitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kumano Daigaku</title>
+      <link>https://bick-jp.github.io/project/kumano-daigaku/</link>
+      <pubDate>Sun, 22 Dec 2019 16:09:39 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/kumano-daigaku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Botsnew Player</title>
+      <link>https://bick-jp.github.io/project/botsnew-player/</link>
+      <pubDate>Sun, 22 Dec 2019 15:44:46 -0500</pubDate>
+      <guid>https://bick-jp.github.io/project/botsnew-player/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

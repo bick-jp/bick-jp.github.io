@@ -8,13 +8,28 @@
   </url>
   
   <url>
+    <loc>https://bick-jp.github.io/tags/music/</loc>
+    <lastmod>2019-12-22T16:31:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bick-jp.github.io/project/</loc>
+    <lastmod>2019-12-22T16:31:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/tags/</loc>
     <lastmod>2019-12-22T16:31:18-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://bick-jp.github.io/project/tria-dynamika-kora/</loc>
     <lastmod>2019-12-22T16:31:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/tags/app/</loc>
+    <lastmod>2019-12-22T16:27:36-05:00</lastmod>
   </url>
   
   <url>
@@ -25,6 +40,11 @@
   <url>
     <loc>https://bick-jp.github.io/project/speed-pitch/</loc>
     <lastmod>2019-12-22T16:22:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bick-jp.github.io/tags/art/</loc>
+    <lastmod>2019-12-22T16:18:30-05:00</lastmod>
   </url>
   
   <url>
@@ -93,10 +113,6 @@
   
   <url>
     <loc>https://bick-jp.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bick-jp.github.io/tags/</loc>
   </url>
   
 </urlset>
