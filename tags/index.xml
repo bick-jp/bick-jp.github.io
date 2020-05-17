@@ -5,7 +5,7 @@
     <link>https://bick-jp.github.io/tags/</link>
       <atom:link href="https://bick-jp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Keita Ohshiro</copyright><lastBuildDate>Sun, 22 Dec 2019 16:31:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Keita Ohshiro</copyright><lastBuildDate>Sat, 22 Dec 2018 16:05:37 -0500</lastBuildDate>
     <image>
       <url>https://bick-jp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Music</title>
-      <link>https://bick-jp.github.io/tags/music/</link>
-      <pubDate>Sun, 22 Dec 2019 16:31:18 -0500</pubDate>
-      <guid>https://bick-jp.github.io/tags/music/</guid>
+      <title>Art</title>
+      <link>https://bick-jp.github.io/tags/art/</link>
+      <pubDate>Sat, 22 Dec 2018 16:05:37 -0500</pubDate>
+      <guid>https://bick-jp.github.io/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App</title>
       <link>https://bick-jp.github.io/tags/app/</link>
-      <pubDate>Sun, 22 Dec 2019 16:27:36 -0500</pubDate>
+      <pubDate>Thu, 22 Dec 2016 16:09:39 -0500</pubDate>
       <guid>https://bick-jp.github.io/tags/app/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Art</title>
-      <link>https://bick-jp.github.io/tags/art/</link>
-      <pubDate>Sun, 22 Dec 2019 16:18:30 -0500</pubDate>
-      <guid>https://bick-jp.github.io/tags/art/</guid>
+      <title>Music</title>
+      <link>https://bick-jp.github.io/tags/music/</link>
+      <pubDate>Tue, 22 Dec 2009 16:31:18 -0500</pubDate>
+      <guid>https://bick-jp.github.io/tags/music/</guid>
       <description></description>
     </item>
     
