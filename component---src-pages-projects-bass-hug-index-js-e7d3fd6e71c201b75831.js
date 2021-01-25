@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{f8zX:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return c}));var a=t("q1tI"),r=t.n(a),u=(t("Wbzz"),t("Bl7J"));t("tBDR");function c(){return r.a.createElement(u.a,null,r.a.createElement("main",{className:"wrapper"},r.a.createElement("p",null,"Bass Hug Under Construction...")))}}}]);
+//# sourceMappingURL=component---src-pages-projects-bass-hug-index-js-e7d3fd6e71c201b75831.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"7A1/":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var a=t("q1tI"),r=t.n(a),c=(t("Wbzz"),t("Bl7J"));t("tBDR");function u(){return r.a.createElement(c.a,null,r.a.createElement("main",{className:"wrapper"},r.a.createElement("p",null,"Under construction...")))}}}]);
+//# sourceMappingURL=component---src-pages-projects-redesigning-khan-academy-index-js-0b3ddd4d670db3333fd9.js.map
