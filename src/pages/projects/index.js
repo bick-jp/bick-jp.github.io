@@ -23,9 +23,7 @@ export default () => (
       <div className="project-container">
         <div className="project-content">
           <h3>Redesigning Khan Academy</h3>
-          <p>Designing online education more accessible for people who use screen readers. It is an individual project in User Experience Design class taught by Regine Gilbert at NYU.
-          <br />
-          [Details will be uploaded soon]
+          <p>Designing online education more accessible for people who use screen readers. It is an individual project in User Experience Design class taught by Regine Gilbert at NYU. For more information, see <Link to={"/projects/redesigning-khan-academy/"}>Redesigning Khan Academy</Link>.
           </p>
         </div>
       </div>

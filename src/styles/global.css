@@ -65,11 +65,13 @@ header a:visited {
   color: black;
 }
 
-header a:hover {
-  background: lightgray;
+header a:hover, header a:focus {
   padding: 10px;
   border-radius: 30px;
   text-decoration: none;
+  background-color: antiquewhite;
+  box-shadow: 0 0 0pt 2pt #8cc63f;
+  outline: none;
 }
 
 header a.active {
@@ -78,8 +80,10 @@ header a.active {
   text-decoration-thickness: 3px;
 }
 
-a:hover {
+a:focus, a:hover {
   text-decoration: none;
+  outline: 2px solid #8cc63f;
+  background-color: antiquewhite;
 }
 
 a:visited {
