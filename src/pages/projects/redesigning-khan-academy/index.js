@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout>
       <main className="wrapper">
-        <h1>Redesigning Khan Academy (under construction)</h1>
+        <h1>Redesigning Khan Academy</h1>
         <h2>Overview</h2>
         <p>This project is to redesign a website of Khan Academy, a non-profit educational organization offering a variety of free online courses, to make it accessible to people who are blind and use screen readers. It is an individual project in User Experience Design class taught by Regine Gilbert at NYU in 2020 Fall semester.</p>
 
@@ -50,25 +50,40 @@ export default function Home() {
         <Image className="" filename="khan-journey-map.png" alt="Journy map consists of 4 phases - 1. Befor arriving at Khan Aademy, 2. Navigation to the course, 3. Learning the contents, and 4. Leave. It explains the process that a user goes through with 5 components - 1 User actions, 2. User's feeling, 3. Emotional Curve, 4. Opportunities, and 5. Ideas" />
 
         <h3>Secondary Research</h3>
-        <p>TBA</p>
+        <h4>Academic papers</h4>
+        <p>Past research analyzed and evaluated the accessibility of various online education services and some also suggested possible improvement. There are many but here are some of the papers:</p>
+        <ul>
+          <li><a href="http://www.jucs.org/jucs_22_1/how_could_moocs_become">How Could MOOCs Become Accessible? The Case of edX and the Future of Inclusive Online Learning</a></li>
+          <li><a href="https://dl.acm.org/doi/abs/10.17210/hcik.2016.01.29">Are Massive Open Online Courses (MOOCs) Really Open to Everyone?: A Study of Accessibility Evaluation from the Perspective of Universal Design for Learning</a></li>
+          <li><a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0007724901000110">Assistive Technology Applied in an Inclusive MOOC for the Blind</a></li>
+        </ul>
+
+        <h4>Online resources</h4>
+        <p>I could know the experience of people who are blind by some resources online resources. There are many but I list some below:</p>
+        <ul>
+          <li><a href="https://www.quora.com/Is-there-any-MOOC-out-there-for-visually-impaired-people">Is there any MOOC out there for visually impaired people?</a></li>
+          <li><a href="https://support.khanacademy.org/hc/en-us/community/posts/360043525352-Accessibility-for-students-who-are-blind">Accessibility for students who are blind</a></li>
+          <li><a href="https://www.reddit.com/r/Blind/">Blind and Visually Impaired Community</a></li>
+        </ul>
 
         <h3>Primary Research</h3>
-        <p>TBA</p>
+        <p>Conducted interviews with two participants who are blind to know their experiences with online education services.</p>
 
         <h3>Competitive Analysis</h3>
-        <p>TBA</p>
+        <p>I checked the screen-reader-accessibility of some online education services to compare with Khan Academy; Coursera, EdX, Udemy, and FutureLearn.</p>
 
         <h3>Feature Prioritazaion</h3>
+        <p>I used Now-Next-Later method.</p>
         <Image className="" filename="khan-feature-1.jpg" alt="A total 20 ideas of features are written on the digital stickey notes. They are categorized into 3 parts, Now, Next, and Later, based on the prorities." />
 
         <h3>Wireframe</h3>
         <Image className="" filename="khan-wireframe.jpg" alt="Redesign idea of Khan Academy's website with annotations." />
 
         <h3>User Testing</h3>
-        <p>TBA</p>
+        <p>To evaluate my prototype, I was able to conduct user testing with one college student who is blind since birth. He was really excited to see the accessible structure and contents of the lecture, saying <q>It's so easy to navigate and use with screen reader. I can see navigate areas and headings on the main text. Headings make me access to the lecture very easily</q>. But he also mentioned about the area of improvement, saying <q>It would be better if the visual materials are provided as text I can access with lecture script.</q></p>
 
         <h3>Limitation and Future Work</h3>
-        <p>TBA</p>
+        <p>Based on that feedback, in the future, I would like to work on making visual contents and visual explanations accessible in words. For example, there are sentences in the lecture video saying <q>This one is the start HTML tag, and then at the bottom there's this end HTML tag</q>, and <q>Let me change the title. Maybe you can actually see as it changes above</q>. But users with visual impairments would have no idea what is going from such sentences.</p>
 
       </main>
     </Layout>
