@@ -6,7 +6,7 @@ import Image from "../../components/image"
 export default () => (
   <Layout>
     <main className="wrapper">
-      <h1>Projects <br /> (Sorry It's Under Construction)</h1>
+      <h1>Projects <br /> (Under Construction)</h1>
 
       <h2>Accessibility</h2>
 
@@ -40,11 +40,8 @@ export default () => (
 
       <div className="project-container">
         <div className="project-content">
-          <h3>Redesigning Visual Studio Code</h3>
-          <p>Designing onboarding tutorial to introduce Visual Studio Code for beginners in collaboration with MicroSoft Corporation. It is a group project in User Experience Design class taught by Regine Gilbert at NYU.
-          <br />
-          [Details will be uploaded soon]
-          </p>
+          <h3>Designing Onboarding Tutorial of Visual Studio Code</h3>
+          <p>Designing onboarding tutorial to introduce Visual Studio Code for beginners in collaboration with MicroSoft Corporation. It is a group project in User Experience Design class taught by Regine Gilbert at NYU. For more information, see <Link to={"/projects/designing-onboarding-tutorial-of-visual-studio-code/"}>Designing Onboarding Tutorial of Visual Studio Code</Link>.</p>
         </div>
       </div>
 
