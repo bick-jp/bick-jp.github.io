@@ -35,6 +35,7 @@ export default function Home() {
 
         <h2>Publications</h2>
         <ul>
+          <li>(processing) Making the Elusive More Tangible: Remote tools and techniques for teaching web development to screen reader users (2021)</li>
           <li><a href="https://www.microsoft.com/en-us/research/event/accessible-cs-education-fall-workshop/#!breakout-group-reports">Accessible Computing Education in Colleges and Universities [White paper] (2021)</a></li>
           <li><a href="https://dl.acm.org/doi/abs/10.1145/3334480.3383155">Solar-Powered Server: Designing for a More Energy Positive Internet (2020)</a></li>
           <li><a href="https://ieeexplore.ieee.org/document/8622457">Implementing Grover’s Algorithm on the IBM Quantum Computers (2018)</a></li>

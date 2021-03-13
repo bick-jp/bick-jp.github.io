@@ -6,14 +6,14 @@ import Image from "../../components/image"
 export default () => (
   <Layout>
     <main className="wrapper">
-      <h1>Projects <br /> (Under Construction)</h1>
+      <h1>Projects</h1>
 
       <h2>Accessibility</h2>
 
       <div className="project-container">
         <div className="project-content">
           <h3>Math Graph Sonification</h3>
-          <p>Undergoing Master's thesis research exploring how to make math graphs more accessible to people who are blind using sonification.</p>
+          <p>Undergoing Master's thesis research exploring how to make math graphs more accessible to people with visual impairments via sonification, the use of sound to convey information. Through interview, prototyping, and user testing, I will present the design and implementation of sonification on website to convey mathematical with a focus on the mathematical concept of three discontinuities in calculus 1: removable, jump, and infinite discontinuity. See <a href="https://bick-jp.github.io/p5jsMathGraphSonification/index.html" target="_blank">my ongoing prototype of sonification (opens in a new tab)</a>.</p>
         </div>
         {/*
         <Image className="project-thumbnail" filename="KeitaOhshiro.jpg" alt="Black and white photo of Keita Ohshiro" />
